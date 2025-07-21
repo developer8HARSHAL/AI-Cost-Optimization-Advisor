@@ -1,0 +1,61 @@
+# AI Model Pricing Comparison
+Based on current and recent data from the official pricing pages of Anthropic, Mistral AI, and Google, here is a breakdown of the pricing for their key models.
+
+Note: "Nova" is not a specific, publicly available AI model, but a term used in various contexts. For the purpose of this comparison, Google's most advanced and popular models under the Gemini family are considered.
+
+All pricing is for API usage and is based on a pay-as-you-go, per-token model. Prices are shown per 1 million (M) tokens, a common unit for comparison.
+
+---
+
+# Claude (Anthropic)
+Anthropic's models are tiered by capability, with a clear trade-off between price and performance.
+
+- Claude 4 Opus:
+  Input: $15.00 / M tokens
+  Output: $75.00 / M tokens
+  Use Case: Most powerful and expensive model, designed for complex, high-stakes tasks.
+
+- Claude 4 Sonnet:
+  Input: $3.00 / M tokens
+  Output: $15.00 / M tokens
+  Use Case: Balanced intelligence and cost, ideal for general applications.
+
+- Claude 3.5 Haiku:
+  Input: $0.80 / M tokens
+  Output: $4.00 / M tokens
+  Use Case: Fastest and most cost-effective model, suitable for high-volume, quick-response tasks.
+
+---
+
+# Mistral AI
+Mistral AI offers competitive pricing with separate costs for input and output.
+
+- Mistral Large:
+  Input: $8.00 / M tokens
+  Output: $24.00 / M tokens
+  Use Case: Best for sophisticated, high-complexity tasks.
+
+- Mixtral 8x22B:
+  Input: $2.00 / M tokens
+  Output: $6.00 / M tokens
+  Use Case: Advanced Mixture-of-Experts model, great balance of performance and price.
+
+- Mistral Small:
+  Input: $1.00 / M tokens
+  Output: $3.00 / M tokens
+  Use Case: Cost-effective for general-purpose tasks.
+
+---
+
+# Google Gemini
+Google's Gemini models, accessible through Vertex AI, focus on high multimodal capabilities.
+
+- Gemini 2.5 Pro:
+  Input: $2.50 / M tokens
+  Output: $15.00 / M tokens
+  Use Case: Powerful and flexible model for complex tasks with large context windows.
+
+- Gemini 2.5 Flash:
+  Input: $0.30 / M tokens (text)
+  Output: $2.50 / M tokens (text)
+  Use Case: High-speed, efficient model ideal for high-volume applications.
