@@ -2,8 +2,7 @@
 
 ## **Overview**
 The **AI Cost Optimization Advisor** is a Lyzr-powered intelligent agent designed to help businesses optimize their AI costs using a **multi-model orchestration strategy**.  
-It conducts a consultative Q&A session with users, validates inputs, and provides a **comprehensive ROI analysis**, **cost breakdown**, and **phased rollout strategy**.
-
+It conducts a consultative Q&A session with users, validates inputs, and provides a **comprehensive ROI analysis**, **cost breakdown**, and **phased rollout 
 ---
 
 ## **Key Features**
@@ -24,16 +23,8 @@ It conducts a consultative Q&A session with users, validates inputs, and provide
 ---
 
 ## **Demo**
-- **Live Agent Link:** [Your Lyzr Agent Link]
-- **Demo Video:** [Link to 2-3 minute demo video]
-
----
-
-## **Repository Structure**
-├── README.md
-├── assets
-└── knowledge_base.txt
-
+- **Live Agent Link:** (https://studio.lyzr.ai/agent/687e366e89681fa4f199bd37)
+- **Demo Video:
 
 ---
 
